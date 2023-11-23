@@ -8,20 +8,6 @@ aposta = []
 sorteado = [6, 7, 13, 14, 26]
 índice = 0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 for i in range(2):
     while índice < 3:
         rascunho = int(input(f'Digite a {índice+1}ª dezena: '))
